@@ -1,0 +1,12 @@
+write a summary of the video
+
+why do u want CNNs for graphs
+what is the paper trying to do
+lookup for online summaries and videos explaining the paper
+go through that explanatory mail
+
+preserving structure
+
+how does graph fourier transform enable operations like filtering?
+
+what is stationarity, compositionality, locality
